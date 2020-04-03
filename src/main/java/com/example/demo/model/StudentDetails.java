@@ -66,5 +66,10 @@ public class StudentDetails {
 		return "StudentDetails [studentId=" + studentId + ", firstName=" + firstName + ", lastName=" + lastName
 				+ ", age=" + age + "]";
 	}
+	
+	
+	
+	
+	
 
 }
