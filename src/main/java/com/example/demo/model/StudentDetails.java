@@ -20,9 +20,11 @@ public class StudentDetails {
 		return studentId;
 	}
 
+	
 	public void setStudentId(Long studentId) {
 		this.studentId = studentId;
 	}
+	
 
 	public String getFirstName() {
 		return firstName;
